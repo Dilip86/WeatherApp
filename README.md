@@ -35,4 +35,4 @@ This is a simple web-based weather application that allows users to check the we
 This app uses the OpenWeatherMap API to fetch weather data. You will need to obtain an API key from [OpenWeatherMap](https://openweathermap.org/) and replace the `apiKey` variable in the `script` section of `index.html` with your own API key:
 
 ```javascript
-const apiKey = "YOUR_API_KEY_HERE";
+const apiKey = "d77fef5917cb9405d952cf4ebb78a6e2";
