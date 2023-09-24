@@ -1,6 +1,7 @@
 # Weather App
 
-![Screenshot 2023-09-24 192305](https://github.com/Dilip86/WeatherApp/assets/97818951/5f186df7-3c1a-4d2b-bfe7-68df321dc30c)
+![image](https://github.com/Dilip86/WeatherApp/assets/97818951/651475a4-5174-4afa-b03e-87915f0b3417)
+
 
 
 This is a simple web-based weather application that allows users to check the weather for a specific city. It uses the OpenWeatherMap API to fetch weather data and displays it on the webpage.
